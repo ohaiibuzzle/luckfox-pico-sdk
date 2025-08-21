@@ -1,0 +1,3 @@
+[submodule "sysdrv/tools/board/ubuntu"]
+	path = sysdrv/tools/board/ubuntu
+	url = https://github.com/luckfox-eng33/pico_ubuntu.git
